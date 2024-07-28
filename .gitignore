@@ -1,0 +1,44 @@
+# Metals
+.metals/
+.bloop/
+.project
+.idea/
+*.iml
+
+# Scala specific
+*.class
+*.log
+*.cache
+*.diff
+*.htm
+*.orig
+*.rej
+*.sbt#*
+*.log
+*.history
+.history/
+
+# sbt specific
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/target/
+.ensime_cache/
+
+# Intellij
+*.ipr
+*.iws
+.idea/
+out/
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Eclipse
+*.metadata
+*.classpath
+*.project
